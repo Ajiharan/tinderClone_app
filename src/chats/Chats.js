@@ -5,19 +5,19 @@ const Chats = () => {
   return (
     <div className="chats">
       <Chat
-        name="thanusa"
+        name="Karthika"
         message="what's going on there ? "
         timestamp="25 seconds ago."
         profilePic=""
       />
       <Chat
-        name="haran"
+        name="harani"
         message="let's me in"
         timestamp="20 seconds ago."
         profilePic=""
       />
       <Chat
-        name="siva"
+        name="sivani"
         message="let's take a pic.."
         timestamp="50 seconds ago."
         profilePic=""

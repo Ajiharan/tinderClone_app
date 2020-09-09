@@ -6,7 +6,10 @@
   height: 65px;
   border-bottom: 1px solid rgb(243, 234, 234);
 }
-
+a {
+  text-decoration: none;
+  color: inherit;
+}
 .chat__details {
   flex: 1;
 }
